@@ -1,2 +1,3 @@
 Hello World !
 Editting through GitHub
+Conflicting line through Github
